@@ -1,0 +1,52 @@
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.csprojAssemblyReference.cache
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar_datos.Form1.resources
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar_datos.Properties.Resources.resources
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.csproj.GenerateResource.cache
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.csproj.CoreCompileInputs.cache
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\encryptar datos.exe.config
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\encryptar datos.exe
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\encryptar datos.pdb
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\EntityFramework.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\EntityFramework.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.csproj.CopyComplete
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.exe
+C:\Users\ALFON\source\repos\encryptar datos\encryptar datos\obj\Debug\encryptar datos.pdb
